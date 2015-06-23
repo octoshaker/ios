@@ -13,6 +13,7 @@
 # Подключение
 - Добавить `libshaker.a` и `ShakerLib.plist` в проект
 - Пройти регистрацию и получить `instance_key` на странице сервиса: http://shaker.octoberry.net/
+- _[Опционально]_ Указать Slack Incoming Webhook URL и радоваться каждому репорту
 - Установить `instance_key` в `ShakerLib.plist`
 - Добавить флаг `-ObjC`
 
